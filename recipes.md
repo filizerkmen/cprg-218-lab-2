@@ -38,6 +38,7 @@ Ingredients:
 - 2 tablespoons olive oil
 - 2 tablespoons balsamic vinegar
 - Salt and pepper to taste
+- 1 tbsp grated parmesan cheese
 
 Instructions:
 1. Preheat oven to 350°F.
