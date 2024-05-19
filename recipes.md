@@ -59,6 +59,7 @@ Ingredients:
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
+- 1 tbsp parsley
 
 Instructions:
 1. Cook spaghetti according to package instructions.
@@ -74,6 +75,8 @@ Instructions:
 Ingredients:
 - 2 boneless, skinless chicken breasts
 - Salt and pepper to taste
+- 3/4 tsp garlic powder
+- 3/4 tsp paprika
 - 2 tablespoons olive oil
 - 4 slices Swiss cheese
 - 4 hamburger buns
