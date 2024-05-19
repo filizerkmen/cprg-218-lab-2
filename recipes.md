@@ -113,3 +113,24 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Brownies
+
+Ingredients:
+- 1 1/2 cups granulated sugar
+- 3/4 cup all-purpose flour
+- 2/3 cup cocoa powder
+- 1/2 cup powdered sugar
+- 3/4 teaspoons salt
+- 2 large eggs
+- 1/2 cup olive oil
+- 2 tbs water
+- 1/2 tsp vanilla
+
+Instructions:
+1. Preheat the oven to 325°F.
+2. Combine sugar, flour, cocoa poder, powdered sugar, and salt in a bowl.
+3. Whisk eggs, olive oil, water, and vanilla in another bowl.
+4. Gradually blend in the dry ingredients.
+5. Pour batter into an 8x8 baking dish lined with parchment paper.
+6. Bake for 40 to 48 minutes.
